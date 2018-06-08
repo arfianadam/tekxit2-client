@@ -5,5 +5,4 @@
 !/config/
 !/mods/
 
-/mods/*
-!/mods/Baubles*
+/mods/Baubles*
