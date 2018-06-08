@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Include config and mods folders
+!/config/
+!/mods/
+
+/mods/*
+!/mods/Baubles*
