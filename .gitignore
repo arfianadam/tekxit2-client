@@ -1,8 +1,8 @@
 # Ignore everything
-*
+/*
 
 # Include config and mods folders
 !/config/
 !/mods/
 
-/mods/Baubles*
+/mods/Baubles-1.7.10-1.0.1.10.jar
